@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "title": "sakız",
+        "price":140.5,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_t3RuXS85XtxRsyYlBtaEx0QHCJYisvhqYg&usqp=CAU"
+    },
+    {
+        "id":2,
+        "title": "kola",
+        "price":2840,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOUVJZPYrC-E6h88PkeyILaYhhjfutQD28DQ&usqp=CAU"
+    },
+    {
+        "id":3,
+        "title": "ayakkapı",
+        "price":41250,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-mlfyZcmY3mSzyx9-hohMEnJgOQqxhM56lQ&usqp=CAU"
+    },
+    {
+        "id":4,
+        "title": "araba",
+        "price":250000,
+        "image":"https://www.otoshops.com/cms/uploads/18/20180525141655/HaberOrtasedan.jpeg"
+    },
+    {
+        "id":5,
+        "title": "bilgisayar",
+        "price":23500,
+        "image":"https://cdn.cimri.io/image/1200x1200/appledizstbilgisayarfiyatlar_438732615.jpg"
+    },
+    {
+        "id":6,
+        "title": "Telefon",
+        "price":11000,
+        "image":"https://cdn.cimri.io/image/1200x1200/oppoceptelefonlarfiyatlar_499356277.jpg"
+    },
+    {
+        "id":7,
+        "title": "motor",
+        "price":87500,
+        "image":"https://cdn03.ciceksepeti.com/cicek/kcm45176275-1/XL/yamaha-yzf-r6-model-oyuncak-motor-kcm45176275-1-1c070b43a6884f849ff1f4323a87e81d.jpg"
+    },
+    {
+        "id":8,
+        "title": "Villa",
+        "price":650000,
+        "image":"https://www.hepsivilla.com/upload/catalog/2385/1280/1-villa-star-776.webp"
+    },
+    {
+        "id":9,
+        "title": "T-shirt",
+        "price":1200,
+        "image":"https://akn-mudo.b-cdn.net/products/2022/09/01/470278/f6784002-2e04-4a21-8dbd-6bbf0664da98_size283x283_cropCenter.jpg"
+    }
+]
